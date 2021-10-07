@@ -10,6 +10,7 @@ Newsletter signup page using bootstrap, nodejs, expressjs and mailchimp api
 
 <li>Front-end Technologies - HTML, CSS, Bootstrap</li>
 <li>Back-end Technologies - Node.js, Express.js</li>
+<br>
 
 ***API Used :***
 
